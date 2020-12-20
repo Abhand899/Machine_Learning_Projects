@@ -8,6 +8,7 @@ You load a historical dataset from previous loan applications, clean the data, a
  ii) Decision Tree
 iii) Support Vector Machine
  iv) Logistic Regression
+
 The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
 
  a) Jaccard index
